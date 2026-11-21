@@ -1,0 +1,29 @@
+T15 — MINI-SITE PÚBLICO AUTÓNOMO (VERSÃO CORRIGIDA)
+Autora: Formadora Ana Margarida Fonseca
+
+Esta versão pública contém APENAS:
+• Nome da ação, apresentação, objetivos gerais e formadora.
+• Biblioteca com 28 prompts copiáveis e pesquisáveis.
+• Orientações de avaliação e trabalho final, rubrica e checklist.
+• Modelo preenchível e exportável em PDF.
+• Licença Creative Commons CC BY-NC-ND 4.0 aplicável a esta versão pública.
+
+Ficheiro principal: index.html. Todos os acessos internos abrem na MESMA PÁGINA.
+Não estão incluídos os módulos 1–4 nem o material privado da formadora.
+
+PUBLICAR: crie um novo repositório GitHub Pages, carregue APENAS estes
+três ficheiros na raiz e configure Settings > Pages > Deploy from a branch,
+main e /(root). Também pode abrir index.html em Chrome/Edge/Firefox/Safari,
+fora do visualizador do ChatGPT, para testar as interações.
+
+Em visualizadores de ficheiros que bloqueiam JavaScript, a pesquisa, a cópia
+e o formulário podem não funcionar, mesmo quando o site é válido. Publique no
+GitHub Pages (HTTPS) ou abra o ficheiro localmente num navegador normal.
+
+PERCURSO: os botões «Explorar os prompts», «Avaliação», «Trabalho final»
+e «Modelo PDF» direcionam agora para secções do único index.html. Os botões
+«Copiar prompt» exibem confirmação e, se a cópia for bloqueada, selecionam
+o texto para copiar manualmente com Ctrl+C / Cmd+C.
+
+LICENÇA: Creative Commons Atribuição-NãoComercial-SemDerivações 4.0.
+A publicação não atribui licença aos materiais da versão completa reservada.
