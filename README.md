@@ -1,0 +1,15 @@
+T15 — MINI-SITE PÚBLICO AUTÓNOMO (VERSÃO CORRIGIDA)
+Autora: Formadora Ana Margarida Fonseca
+
+Esta versão pública contém APENAS:
+• Nome da ação, apresentação, objetivos gerais e formadora.
+• Biblioteca com 28 prompts copiáveis e pesquisáveis.
+• Orientações de avaliação e trabalho final, rubrica e checklist.
+• Modelo preenchível e exportável em PDF.
+• Licença Creative Commons CC BY-NC-ND 4.0 aplicável a esta versão pública.
+
+Ficheiro principal: index.html. Todos os acessos internos abrem na MESMA PÁGINA.
+Não estão incluídos os módulos 1–4 nem o material privado da formadora.
+
+LICENÇA: Creative Commons Atribuição-NãoComercial-SemDerivações 4.0.
+A publicação não atribui licença aos materiais da versão completa reservada.
